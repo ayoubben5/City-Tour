@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/City-Tour/static/css/main.75b9cf18.chunk.css",
+    "main.js": "/City-Tour/static/js/main.6523e95f.chunk.js",
+    "main.js.map": "/City-Tour/static/js/main.6523e95f.chunk.js.map",
+    "runtime-main.js": "/City-Tour/static/js/runtime-main.5e90e324.js",
+    "runtime-main.js.map": "/City-Tour/static/js/runtime-main.5e90e324.js.map",
+    "static/js/2.a1ce8b1d.chunk.js": "/City-Tour/static/js/2.a1ce8b1d.chunk.js",
+    "static/js/2.a1ce8b1d.chunk.js.map": "/City-Tour/static/js/2.a1ce8b1d.chunk.js.map",
+    "index.html": "/City-Tour/index.html",
+    "precache-manifest.adf3818f59edb68f2f2414f64f3c122f.js": "/City-Tour/precache-manifest.adf3818f59edb68f2f2414f64f3c122f.js",
+    "service-worker.js": "/City-Tour/service-worker.js",
+    "static/css/main.75b9cf18.chunk.css.map": "/City-Tour/static/css/main.75b9cf18.chunk.css.map",
+    "static/js/2.a1ce8b1d.chunk.js.LICENSE.txt": "/City-Tour/static/js/2.a1ce8b1d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/City-Tour/static/media/logo.12a6659f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e90e324.js",
+    "static/js/2.a1ce8b1d.chunk.js",
+    "static/css/main.75b9cf18.chunk.css",
+    "static/js/main.6523e95f.chunk.js"
+  ]
+}
